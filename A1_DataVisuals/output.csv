@@ -1,116 +1,234 @@
-vteLists of countries by population statistics
-"
-Current population
-Current population (United Nations)"
-"
-Africa
-Asia
-Europe
-North America
-Caribbean
-Oceania
-South America"
-"
-Americas
-Arab world
-Commonwealth of Nations
-Eurasia
-European Union
-Islands
-Latin America
-Middle East"
-"
-National capitals
-Cities proper
-Metropolitan areas
-Urban areas
-Megacities
-Megalopolises"
-"
-Past and future population
-1
-1000
-1500
-1600
-1700
-1800
-1900
-1907
-1939
-1989
-2000
-2005
-2010
-population milestones"
-"
-Current density
-Past and future population density
-Current real density based on food growing capacity"
-"
-Population growth rate
-Natural increase
-Birth rate
-Mortality rate
-Fertility rate
-Past fertility rate"
-"
-Age at first marriage
-Divorce rate
-Ethnic and cultural diversity level
-Immigrant population
-Linguistic diversity
-Median age
-Age structure
-Dependency ratio
-Net migration rate
-Number of households
-Sex ratio
-Urban population
-Urbanization"
-"
-Antiviral medications for pandemic influenza
-HIV/AIDS adult prevalence rate
-Infant and under-five mortality rates
-Maternal mortality rate
-Life expectancy
-Past life expectancy
-Percentage suffering from undernourishment
-Health expenditure covered by government
-Suicide rate
-Total health expenditure per capita
-Body Mass Index (BMI)"
-"
-Bloomberg Innovation Index
-Education Index
-International Innovation Index
-Innovation Union Scoreboard
-Literacy rate
-Programme for the International Assessment of Adult Competencies
-Progress in International Reading Literacy Study
-Student skills
-Tertiary education attainment
-Trends in International Mathematics and Science Study
-Women's average years in school
-World Intellectual Property Indicators"
-"
-Development aid given
-Official Development Assistance received
-Employment rate
-Irrigated land area
-Human Development Index
-by country
-inequality-adjusted
-Human Poverty Index
-Imports
-Income equality
-Labour force
-Number of millionaires (US dollars)
-Number of billionaires (US dollars)
-Percentage living in poverty
-Public sector
-Sen social welfare function
-Unemployment rate"
-"
-List of international rankings
-List of top international rankings by country
-Lists by country"
+Country,Emigrants,Notes
+
+ Afghanistan,"4,843,117",12.96%,
+ Albania,"1,122,910",27.94%,
+ American Samoa,"2,035",3.58%,
+ Algeria,"1,763,771",4.26%,
+ Andorra,"7,571",8.13%,
+ Angola,"555,403",2.14%,
+ Anguilla,"2,406",15.03%,
+ Antigua and Barbuda,"65,489",44.46%,
+ Argentina,"940,273",2.12%,
+ Armenia,"937,299",23.70%,
+ Aruba,"16,724",13.92%,
+ Austria,"575,828",6.31%,
+ Australia,"526,579",2.15%,
+ Azerbaijan,"1,146,769",10.52%,
+ Bahamas,"40,095",9.35%,
+ Bahrain,"55,964",4.00%,
+ Bangladesh,"7,205,410",4.28%,
+ Barbados,"98,464",26.16%,
+ Belarus,"1,485,323",13.53%,
+ Belgium,"530,990",4.48%,
+ Belize,"59,884",14.29%,
+ Benin,"615,852",5.36%,
+ Bermuda,"17,046",20.97%,
+ Bhutan,"44,190",5.40%,
+ Bolivia,"799,605",6.94%,
+ Bosnia and Herzegovina,"1,650,772",30.23%,
+ Botswana,"58,346",2.51%,
+ Brazil,"1,544,024",0.73%,
+ British Virgin Islands,"4,624",14.16%,
+ Brunei,"46,237",9.85%,
+ Bulgaria,"1,176,390",14.13%,
+ Burkina Faso,"1,453,378",7.43%,
+ Burundi,"284,187",2.48%,
+ Cabo Verde,"165,732",24.00%,
+ Cambodia,"1,187,142",7.08%,
+ Cameroon,"328,604",1.39%,
+ Canada,"1,286,176",3.45%,
+ Caribbean Netherlands,"8,920",29.68%,
+ Cayman Islands,"1,569",2.69%,
+ Central African Republic,"440,745",8.17%,
+  Channel Islands,"20,335",11.04%,
+ Chad,"208,335",1.43%,
+ Chile,"612,409",3.40%,
+ China,"9,546,065",0.69%,
+ Colombia,"4,700,000",10.00%,
+ Comoros,"116,516",12.74%,
+ Congo,"220,501",4.56%,
+ Cook Islands,"21,505",58.95%,
+ Costa Rica,"133,185",2.70%,
+ Croatia,"865,147",16.95%,
+ Cuba,"1,426,380",11.13%,
+ Curacao,"69,893",31.10%,
+ Cyprus,"177,185",13.20%,
+ Czech Republic,"932,582",8.13%,
+ Democratic Republic of Congo,"1,403,757",1.68%,
+ Denmark,"250,675",4.23%,
+ Djibouti,"15,927",1.76%,
+ Dominica,"69,817",49.11%,
+ Dominican Republic,"1,304,493",10.96%,
+ Ecuador,"1,101,923",6.93%,
+ Egypt,"3,268,970",3.43%,
+ El Salvador,"1,436,158",18.99%,
+ Equatorial Guinea,"81,029",8.75%,
+ Eritrea,"499,916",8.68%,
+ Estonia,"198,042",13.11%,
+ Ethiopia,"753,492",0.74%,
+ Faeroe Islands,"14,284",22.32%,
+ Falkland Islands,"1,124",27.71%,
+ Fiji,"204,934",18.65%,
+ Finland,"295,077",5.09%,
+ France,"2,145,975",2.91%,
+ French Guiana,"4,372",1.71%,
+ French Polynesia,"1,337",0.49%,
+ Gabon,"63,209",3.53%,
+ Gambia,"89,639",4.31%,
+ Georgia,"838,430",17.33%,
+ Germany,"4,045,411",4.77%,
+ Ghana,"801,710",2.84%,
+ Gibraltar,"13,065",28.86%,
+ Greece,"871,643",7.37%,
+ Greenland,"17,552",23.80%,
+ Grenada,"65,812",37.52%,
+ Guadeloupe,"10,610",2.56%,
+ Guam,"2,144",1.30%,
+ Guatemala,"1,017,517",5.86%,
+ Guinea,"426,941",3.27%,
+ Guinea-Bissau,"101,828",5.67%,
+ Guyana,"460,286",37.03%,
+ Haiti,"1,195,240",9.76%,
+ Holy See,182,20.87%,
+ Honduras,"648,520",7.43%,
+ Hong Kong,"1,041,264",11.25%,
+ Hungary,"595,937",5.70%,
+ Iceland,"38,496",10.46%,
+ India,"25,575,724",2.17%,
+ Indonesia,"3,876,739",1.48%,
+ Iran,"1,123,383",1.40%,
+ Iraq,"1,479,966",3.90%,
+ Ireland,"882,022",15.83%,
+ Isle of Man,"10,957",11.47%,
+ Israel,"342,585",3.35%,
+ Italy,"2,900,924",4.62%,
+ Ivory Coast,"850,105",3.61%,
+ Jamaica,"1,067,455",27.61%,
+ Japan,"797,496",0.63%,
+ Jordan,"699,719",7.82%,
+ Kazakhstan,"4,075,738",18.78%,
+ Kenya,"455,889",0.96%,
+ Kiribati,"4,717",4.33%,
+ Kuwait,"187,871",4.20%,
+ Kyrgyzstan,"760,847",11.35%,
+ Laos,"1,345,075",16.50%,
+ Latvia,"337,678",14.63%,
+ Lebanon,"798,140",11.96%,
+ Lesotho,"363,763",14.56%,
+ Liberia,"276,630",5.79%,
+ Libya,"141,623",2.20%,
+ Liechtenstein,"3,870",9.39%,
+ Lithuania,"544,120",15.90%,
+ Luxembourg,"61,058",9.72%,
+ Macau,"140,395",17.91%,
+ Macedonia,"516,024",19.89%,
+ Madagascar,"169,984",0.63%,
+ Malawi,"302,515",1.73%,
+ Malaysia,"1,835,252",5.71%,
+ Maldives,"2,844",0.82%,
+ Mali,"1,005,607",5.40%,
+ Malta,"103,392",18.83%,
+ Marshall Islands,"6,901",11.49%,
+ Martinique,"13,618",3.40%,
+ Mauritania,"119,334",2.85%,
+ Mauritius,"168,255",11.77%,
+ Mayotte,"6,602",3.01%,
+ Mexico,"12,339,062",8.85%,
+ Micronesia,"19,798",15.72%,
+ Moldova,"888,610",17.92%,
+ Monaco,"28,626",43.09%,
+ Mongolia,"59,266",1.96%,
+ Montenegro,"138,356",18.11%,
+ Montserrat,"17,744",78.36%,
+ Morocco,"2,834,641",7.62%,
+ Mozambique,"713,867",2.49%,
+ Myanmar,"2,881,797",5.08%,
+ Namibia,"145,852",5.60%,
+ Nauru,"2,391",19.16%,
+   Nepal,"1,629,306",5.41%,
+ Netherlands,"981,434",5.48%,
+ New Caledonia,"6,330",1.71%,
+ New Zealand,"802,335",15.00%,
+ Nicaragua,"638,958",9.51%,
+ Niger,"356,793",1.76%,
+ Nigeria,"1,093,644",0.59%,
+ Niue,"5,355",81.80%,
+ North Korea,"112,783",0.45%,
+ Northern Mariana Islands,"2,649",4.81%,
+ Norway,"193,477",3.58%,
+ Oman,"21,333",0.27%,
+ Pakistan,"5,935,193",3.05%,
+ Palau,"2,552",12.44%,
+ Panama,"142,706",3.50%,
+ Papua New Guinea,"4,631",0.06%,
+ Palestine,"3,551,185",43.83%,
+ Paraguay,"845,373",11.29%,
+ Peru,"3,000,056",4.30%,
+ Philippines,"5,316,320",5.01%,
+ Poland,"4,449,789",10.33%,
+ Portugal,"2,306,321",18.14%,
+ Puerto Rico,"1,768,384",33.73%,
+ Qatar,"25,681",0.69%,
+ Reunion,"3,028",3.44%,
+ Romania,"3,408,118",14.87%,
+ Russia,"10,576,766",6.87%,
+ Rwanda,"315,866",2.65%,
+ Saint Helena,"3,958",48.19%,
+ Saint Kitts and Nevis,"39,132",41.58%,
+ Saint Lucia,"55,414",23.18%,
+ Saint Pierre and Miquelon,435,6.67%,
+ Saint Vincent and the Grenadines,"60,424",36.97%,
+ Samoa,"113,139",36.68%,
+ San Marino,"2,303",6.60%,
+ Sao Tome and Principe,"35,833",15.83%,
+ Saudi Arabia,"270,029",0.78%,
+ Senegal,"586,870",3.73%,
+ Serbia,"964,585",9.83%,
+ Seychelles,"11,772",11.34%,
+ Sierra Leone,"145,003",2.20%,
+ Singapore,"313,884",5.36%,
+ Sint Maarten,"23,811",41.46%,
+ Slovakia,"341,620",5.92%,
+ Slovenia,"140,490",6.36%,
+ Solomon Islands,"3,833",0.65%,
+ Somalia,"1,998,764",15.63%,
+ South Africa,"841,120",1.52%,
+ South Korea,"2,345,840",4.46%,
+ South Sudan,"634,613",4.89%,
+ Spain,"1,251,004",2.60%,
+ Sri Lanka,"1,637,385",7.32%,
+ Sudan,"1,890,861",3.22%,
+ Suriname,"267,800",30.38%,
+ Swaziland,"95,671",6.92%,
+ Sweden,"333,428",3.30%,
+  Switzerland,"664,557",7.41%,
+ Syria,"5,011,509",21.30%,
+ Tanzania,"294,531",0.55%,
+ Tajikistan,"589,748",6.50%,
+ Thailand,"854,327",1.24%,
+ Timor-Leste,"37,311",3.01%,
+ Togo,"446,982",5.77%,
+ Tokelau,"2,255",61.51%,
+ Tonga,"56,524",35.42%,
+ Trinidad and Tobago,"363,332",20.89%,
+ Tunisia,"651,044",5.46%,
+ Turkey,"3,114,471",3.81%,
+ Turkmenistan,"242,948",4.33%,
+ Turks and Caicos Islands,"1,878",3.69%,
+ Tuvalu,"3,472",24.60%,
+ Uganda,"736,017",1.50%,
+ Ukraine,"5,825,745",11.50%,
+ United Arab Emirates,"136,557",1.35%,
+ United Kingdom,"4,917,460",7.05%,
+ United States of America,"3,023,657",0.92%,
+ United States Virgin Islands,"3,407",3.18%,
+ Uruguay,"346,976",9.18%,
+ Uzbekistan,"1,991,040",6.24%,
+ Vanuatu,"8,583",3.40%,
+ Venezuela,"606,344",1.91%,
+ Vietnam,"2,558,678",2.67%,
+ Wallis and Futuna,"7,843",39.13%,
+ Western Sahara,"91,034",13.44%,
+ Yemen,"1,012,889",3.63%,
+ Zambia,"238,121",1.45%,
+ Zimbabwe,"856,345",5.20%,
