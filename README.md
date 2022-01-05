@@ -5,4 +5,4 @@
 
 * [Various methods to ingest data into Google Colab](https://sateesh110.medium.com/various-methods-to-ingest-data-into-google-colab-b5e51d591114)
 
-* [Digital Transformation (DX) of Three Lines of Defense Model - Project Demo]
+* [Digital Transformation (DX) of Three Lines of Defense Model - Project Demo](https://github.com/Sateesh110/Rep_Medium/tree/master/A3_Project_Demo_Digital_Transformation)
